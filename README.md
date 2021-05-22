@@ -11,5 +11,8 @@
 ### master barnch 에 direct 로 commit 하지 않습니다. !!! (동시에 작업하다 꼬일 수 있으니)  
 ### master branch 에 직접 Commit 혹은 Merge 할 경우 사전에 PM 에게 Pull request 하여 반드시 Confirm 후 진행 합니다.  
 ### fast-forward 나 merge commit 할 경우 PM과 상의 해 주시기 바랍니다. 
-### merge commit 할 경우 default base barach 는 master branch 가 가르키는 Commit 입니다.  
+### merge commit 할 경우 PM과 상의하여 아래의 순서로 진행합니다.  
+      1) 자신의 branch 를 기준으로 merge commit 을 해 보고. bug 수정합니다. 
+      2) 문제 없으면, base branch 인 master branch 에 재 반영합니다. 
+
 ### 이 저장소는 이렇게 운영 됩니다 .
