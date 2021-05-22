@@ -12,7 +12,7 @@
  8) master branch 에 직접 Commit 혹은 Merge 할 경우 사전에 PM 에게 Pull request 하여 반드시 Confirm 후 진행 합니다.  
  9) fast-forward 나 merge commit 할 경우 PM과 상의 해 주시기 바랍니다. 
  10) merge commit 할 경우 PM과 상의하여 아래의 순서로 진행합니다. 
-      - 자신의 branch 를 기준으로 merge commit 을 해 보고. bug 수정합니다. 
-      - 문제 없으면, base branch 인 master branch 에 재 반영합니다. 
+      - 자신의 branch 를 기준으로 merge commit 을 해 보고. 문제 없는지 확인 꼭 !! 하세요  
+      - 문제 없으면, base branch 인 master branch를 반영합니다. 
 
 ### 이 저장소는 이렇게 운영 됩니다 .
